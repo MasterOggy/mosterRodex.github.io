@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mosterRodex.github.io/static/css/main.8dfd808d.css",
+    "main.js": "/mosterRodex.github.io/static/js/main.9e6a33b9.js",
+    "static/js/787.c34234b8.chunk.js": "/mosterRodex.github.io/static/js/787.c34234b8.chunk.js",
+    "index.html": "/mosterRodex.github.io/index.html",
+    "main.8dfd808d.css.map": "/mosterRodex.github.io/static/css/main.8dfd808d.css.map",
+    "main.9e6a33b9.js.map": "/mosterRodex.github.io/static/js/main.9e6a33b9.js.map",
+    "787.c34234b8.chunk.js.map": "/mosterRodex.github.io/static/js/787.c34234b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dfd808d.css",
+    "static/js/main.9e6a33b9.js"
+  ]
+}
